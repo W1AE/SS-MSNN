@@ -18,17 +18,11 @@ Therefore, current manifold regularization structure cannot work well on complex
 <img src="https://github.com/wandongzhang/SS-MSNN/blob/master/2.png" width="1200" height="400" />
 
 ## Downloads:
-### Scene-15
-* Fine-tuned ResNet-50 features: [Res50_S15](https://drive.google.com/open?id=1Jb_xdmA9StQLUme3LG_e3_EjlNIM3hiH)
-* Fine-tuned InceptionNet-v3 features: [Incv3_S15](https://drive.google.com/open?id=1ku7huEzJ8I99qYKT5gtCG803puMz9kxe)
-* Source code for Scene-15: The file will be made public after acceptance of the manuscript (if decided so).
-### Caltech-101
-* Caltech-101 dataset: [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/#Download)
-* Fine-tuned ResNet-50 features: [Res50_C101](https://drive.google.com/open?id=1F5BUPCQkzR1OmTlx2aID-E-Is6PrWHRZ)
-* Fine-tuned InceptionNet-v3 features: [Incv3_C101](https://drive.google.com/open?id=1pFeL9kC8vs9ljmB4JYOxTznSj0MxM6DF)
-* Source code for Caltech-101: The file will be made public after acceptance of the manuscript (if decided so).
-### Caltech-256
-* Caltech-256 dataset: [Caltech-256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
-* Fine-tuned ResNet-50 features: [Res50_C256](https://drive.google.com/open?id=104hhcvC20s4sp0J7TYRRM6VK51a6d83v)
-* Fine-tuned InceptionNet-v3 features: [Incv3_C256](https://drive.google.com/open?id=1XIHncWSHRH97TDtxCj2-QvR2KjubMXNh)
-* Source code for Caltech-256: The file will be made public after acceptance of the manuscript (if decided so).
+### G50c
+* Dataset: [G50c](https://drive.google.com/open?id=1BHjJ1TBgqHVYOs4Ar7MNjUNcba8a79hV)
+* Source code for G50c: The file will be made public after acceptance of the manuscript (if decided so).
+
+### Coil-20
+* Dataset: [Coil-20](https://drive.google.com/open?id=1PaQdvhdfm19v699huslKt1MS5zSurZsd)
+* Source code for Coil-20: The file will be made public after acceptance of the manuscript (if decided so).
+
