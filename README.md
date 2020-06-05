@@ -13,9 +13,9 @@ Therefore, current manifold regularization structure cannot work well on complex
 
 ## Learning Structure:
 
-<img src="https://github.com/wandongzhang/Wi-HSNN/blob/master/2.jpg" width="550" height="430" />
+<img src="https://github.com/wandongzhang/SS-MSNN/blob/master/1.png" width="1200" height="430" />
 
-<img src="https://github.com/wandongzhang/Wi-HSNN/blob/master/1.jpg" width="1200" height="400" />
+<img src="https://github.com/wandongzhang/SS-MSNN/blob/master/2.png" width="1200" height="400" />
 
 ## Downloads:
 ### Scene-15
