@@ -18,16 +18,18 @@ Therefore, current manifold regularization structure cannot work well on complex
 <img src="https://github.com/wandongzhang/SS-MSNN/blob/master/2.png" width="1200" height="400" />
 
 ## Downloads:
+
 ### Semi-Supervised Classification
-### G50c
+# G50c
 * Dataset: [G50c](https://drive.google.com/open?id=1BHjJ1TBgqHVYOs4Ar7MNjUNcba8a79hV)
 * Source code for G50c: The file will be made public after acceptance of the manuscript (if decided so).
 
-### Coil-20
+# Coil-20
 * Dataset: [Coil-20](https://drive.google.com/open?id=1PaQdvhdfm19v699huslKt1MS5zSurZsd)
 * Source code for Coil-20: The file will be made public after acceptance of the manuscript (if decided so).
+
 ### Text Classification
-### WeaRe
+# WeaRe
 * Dataset: [WeaRe](https://drive.google.com/open?id=1PaQdvhdfm19v699huslKt1MS5zSurZsd)
 * Source code for Wea-Re: The file will be made public after acceptance of the manuscript (if decided so).
 
