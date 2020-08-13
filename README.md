@@ -17,6 +17,11 @@ Therefore, current manifold regularization structure cannot work well on complex
 
 <img src="https://github.com/wandongzhang/SS-MSNN/blob/master/2.png" width="1200" height="400" />
 
+## Related Work:
+
+* [1] Wandong Zhang, Q.M.Jonathan Wu, and Yimin Yang. Semi-supervised Manifold Regularization via Subnetwork-based Representation Learning Model. *IEEE Transactions on Cybernetics*, First round review. [[code](https://github.com/W1AE/SS-MSNN)]
+
+
 ## Downloads:
 
 # G50c 
